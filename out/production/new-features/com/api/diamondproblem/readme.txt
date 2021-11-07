@@ -1,0 +1,1 @@
+If 2 implemented interface contain same default methods then that is the Diamond Problem.
